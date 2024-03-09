@@ -60,4 +60,4 @@ In CUHK-Shenzhen:
 
 ## News and Updates
 
-- **March 2024:** I finished a great group project with my teammates (Boxuan Wen, Yeke Zhang and Zixiang Hao). Our project focuses on the **Implementation of Image Classification Training Based on FedAvg Algorithm**. I had a great time with them! You can find our slides and report in the **Publication** section. 
+- **March 2024:** I finished a great group project with my teammates (Boxuan Wen, Yeke Zhang and Zixiang Hao). Our project focuses on the *Implementation of Image Classification Training Based on FedAvg Algorithm*. I had a great time with them! You can find our slides and report in the **Publication** section. 
