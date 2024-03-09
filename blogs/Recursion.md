@@ -1,10 +1,7 @@
 ---
-title: 递归(Recursion)详解
-description: 对递归思想含义及用法的详细解释
-copyright_author: Danny Chen
-copyright_url: https://baichengdanny.github.io
-copyright_info: 此文章版权归Danny Chen所有，如有转载，请注明来自原作者
-mathjax: true
+layout: page
+permalink: /blogs/Recursion/index.html
+title: Explanation of Recursion
 ---
 
 # 递归 Recursion

@@ -1,10 +1,7 @@
 ---
-title: CSC3100 Minesweeper题解
-description: CSC3100 Minesweeper题解
-copyright_author: Danny Chen
-copyright_url: https://baichengdanny.github.io
-copyright_info: 此文章版权归Danny Chen所有，如有转载，请注明来自原作者
-mathjax: true
+layout: page
+permalink: /blogs/Minesweeper/index.html
+title: Solution of Minesweeper in OJ
 ---
 # Minesweeper
 
