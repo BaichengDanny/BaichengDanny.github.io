@@ -7,7 +7,7 @@ url: https://baichengdanny.github.io
 # Owner/author information
 owner:
   name: Baicheng Chen
-  avatar: danny.jpg
+  avatar: head.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: baichengchen@link.cuhk.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -38,14 +38,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
+#  - title: Teams
+#    url: /teams/
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+#  - title: Awards
+#    url: /awards/
+#  - title: Hobbies
+#    url: /hobbies/
   - title: Blogs
     url: /blogs/
 
@@ -79,7 +79,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: dannychen
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
