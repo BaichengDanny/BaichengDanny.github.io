@@ -6,6 +6,8 @@ layout: page
 
 <img src="https://baichengdanny.github.io/danny.jpg?raw=true" class="floatpic" width="360" height="480">
 
+
+
 Hi! This is **Baicheng Chen (Danny, 陈柏成)**.
 
 I am a freshman majoring in **CSE** at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). In our university, I'm also a student at Minerva College (厚含书院). Furthermore, I'm a video Editor and Colorist working in the Student Union currently (You can follow the [Bilibili account of the Student Union🔗](https://space.bilibili.com/508002687) to watch our works).
