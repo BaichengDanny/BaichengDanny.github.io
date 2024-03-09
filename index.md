@@ -2,7 +2,7 @@
 
 # About Me
 
-<img src="blogs/web.assets/danny.jpg" alt="danny" style="zoom: 25%;" />
+
 
 Here is **Baicheng Chen (Danny, 陈柏成)**.
 
