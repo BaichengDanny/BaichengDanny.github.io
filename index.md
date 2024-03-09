@@ -14,7 +14,7 @@ I have learned several programming languages like C++, Java and Python, familiar
 
 My hobbies include many fields.  Except for computer science and research, I like literature, music (singing and piano) and swimming. I'm interested in reading and thinking, empathizing with the characters in the book, and writing thoughts and experiences of me. 
 
-If you are interested in any aspect of me, would like to chat with me further, please email me at - *baichengchen[dot]link[dot]cuhk[dot]edu[dot]cn*. I'm looking for like-minded people!
+If you are interested in any aspect of me, would like to chat with me further, please email me at - *baichengchen[at]link[dot]cuhk[dot]edu[dot]cn*. I'm looking for like-minded people!
 
 ## Academic Background
 
