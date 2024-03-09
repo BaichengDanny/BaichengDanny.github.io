@@ -1,25 +1,25 @@
----
-layout: page
----
+
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="blogs/web.assets/danny.jpg" alt="danny" style="zoom: 25%;" />
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Baicheng Chen (Danny, 陈柏成)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò's team](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in person, please feel free to chat with me!
+I am a freshman majoring in **CSE** at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). In our university, I'm also a student at Minerva College (厚含书院). Furthermore, I'm a video Editor and Colorist and working in the Student Union currently (You can follow the [Bilibili account of the Student Union🔗](https://space.bilibili.com/508002687) to watch our works).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I have learned several programming languages like C++, Java and Python, familiar with lots of commonly used Python libraries such as numpy, pandas, matplotlib and sklearn. I also mastered the grammar of LaTex and Markdown. Moreover, in middle school, I used to attend NOIP programming contest and learned many Algorithms. The experience also triggers my interests of computer science and algorithms.
+
+My hobbies include many fields.  Except for computer science and research, I like literature, music (singing and piano) and swimming. I'm interested in reading and thinking, empathizing with the characters in the book, and writing thoughts and experiences of me. 
+
+If you are interested in any aspect of me, would like to chat with me further, please email me at - *baichengchen[dot]link[dot]cuhk[dot]edu[dot]cn*. I'm looking for like-minded people!
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am trying to apply to be a research assistant now!**
 
-- **Sep 2024 - Sep 2025：**Cambridge University (MPhil, EE)
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **Sep 2023 - Mar 2024: **CUHK-Shenzhen (Freshman, CSE)
+- **Sep 2020 - June 2023**: Qingdao NO. 9 High School
 
 <br>
 
@@ -27,28 +27,35 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
+- Machine Learning Algorithms
+- Federated Learning
+- High performance computing (HPC)
+- Computer Vision
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on the **Federated Learning**. In 2016, Google's researchers put forward a novel Machine Learning Architecture based on Distributed Machine Learning called Federated Learning (FL), which highly improved data privacy and security. Now, I'm researching the application of FL in the **computer vision** field. And next, I'll mainly focus on **Fully Distributed Federated Learning**.
 
 <br>
 
 ---
 
+## Current Courses I am Taking
+
+In CUHK-Shenzhen: 
+
+- MAT 1002: Calculus II
+- ENG 1002: English for Academic Purposes I
+- CSC 3100: Data Structure
+- CSC 1004: Computational Laboratory Using Java
+- PHY 1001: Mechanics
+- DDA 2001: Introduction to Data Science
+- GFN 1000: In Dialogue with Nature
+- ITE 1000: Information Technology
+- PED 1002: Swimming - Freestyle
+
+<br>
+
+------
+
 ## News and Updates
 
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- **March 2024: **I finished a great group project with my teammates (Boxuan Wen, Yeke Zhang and Zixiang Hao). Our project focuses on the **Implementation of Image Classification Training Based on FedAvg Algorithm**. I had a great time with them! You can find our slides and report in the **Publication** section. 
