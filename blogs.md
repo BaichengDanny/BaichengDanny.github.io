@@ -10,10 +10,10 @@ I will constantly update the content.
 
 ### 2024
 
-- [Minesweeper problem solution (OJ)]()[https://baichengdanny.github.io/Minesweeper.md]
+- [Minesweeper problem solution (OJ)](https://baichengdanny.github.io/Minesweeper.md)
 
 ### 2023
 
-- [Explanation of Recursion (in Chinese)](https://baichengdanny.github.io/递归 Recursion.md)
+- [Explanation of Recursion (in Chinese)](https://baichengdanny.github.io/Recursion.md)
 
 <br>
