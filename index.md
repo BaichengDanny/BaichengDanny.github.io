@@ -31,9 +31,10 @@ If you are interested in any aspect of me, would like to chat with me further, p
 
 ## Research Interests
 
-- Machine Learning Algorithms
+- Machine Learning
+- High-performance Computing
+- Parallel and Distributed Systems
 - Federated Learning
-- High performance computing (HPC)
 - Computer Vision
 
 My current research focuses on the **Federated Learning**. In 2016, Google's researchers put forward a novel Machine Learning Architecture based on Distributed Machine Learning called Federated Learning (FL), which highly improved data privacy and security. Now, I'm researching the application of FL in the **computer vision** field. And next, I'll mainly focus on **Fully Distributed Federated Learning**.
