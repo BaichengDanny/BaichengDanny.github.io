@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/BaichengDanny/BaichengDanny.github.io/blob/main/danny.jpg?raw=true" class="floatpic" width="360" height="480">
+<img src="https://baichengdanny.github.io/danny.jpg?raw=true" class="floatpic" width="360" height="480">
 
 Here is **Baicheng Chen (Danny, 陈柏成)**.
 
