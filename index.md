@@ -20,8 +20,8 @@ If you are interested in any aspect of me, would like to chat with me further, p
 
 **<font color='red'>[Highlight]</font> I am trying to apply to be a research assistant now!**
 
-- **Sep 2023 - Mar 2024: **CUHK-Shenzhen (Freshman, CSE)
-- **Sep 2020 - June 2023**: Qingdao NO. 9 High School
+- **Sep 2023 - Mar 2024:** CUHK-Shenzhen (Freshman, CSE)
+- **Sep 2020 - June 2023:** Qingdao NO. 9 High School
 
 <br>
 
@@ -60,4 +60,4 @@ In CUHK-Shenzhen:
 
 ## News and Updates
 
-- **March 2024: **I finished a great group project with my teammates (Boxuan Wen, Yeke Zhang and Zixiang Hao). Our project focuses on the **Implementation of Image Classification Training Based on FedAvg Algorithm**. I had a great time with them! You can find our slides and report in the **Publication** section. 
+- **March 2024:** I finished a great group project with my teammates (Boxuan Wen, Yeke Zhang and Zixiang Hao). Our project focuses on the **Implementation of Image Classification Training Based on FedAvg Algorithm**. I had a great time with them! You can find our slides and report in the **Publication** section. 
