@@ -8,7 +8,7 @@ layout: page
 
 Here is **Baicheng Chen (Danny, 陈柏成)**.
 
-I am a freshman majoring in **CSE** at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). In our university, I'm also a student at Minerva College (厚含书院). Furthermore, I'm a video Editor and Colorist and working in the Student Union currently (You can follow the [Bilibili account of the Student Union🔗](https://space.bilibili.com/508002687) to watch our works).
+I am a freshman majoring in **CSE** at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). In our university, I'm also a student at Minerva College (厚含书院). Furthermore, I'm a video Editor and Colorist working in the Student Union currently (You can follow the [Bilibili account of the Student Union🔗](https://space.bilibili.com/508002687) to watch our works).
 
 I have learned several programming languages like C++, Java and Python, familiar with lots of commonly used Python libraries such as numpy, pandas, matplotlib and sklearn. I also mastered the grammar of LaTex and Markdown. Moreover, in middle school, I used to attend NOIP programming contests and learned many Algorithms. The experience also triggers my interest in computer science and algorithms.
 
