@@ -1,4 +1,6 @@
-
+---
+layout: page
+---
 
 # About Me
 
@@ -8,7 +10,7 @@ Here is **Baicheng Chen (Danny, 陈柏成)**.
 
 I am a freshman majoring in **CSE** at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). In our university, I'm also a student at Minerva College (厚含书院). Furthermore, I'm a video Editor and Colorist and working in the Student Union currently (You can follow the [Bilibili account of the Student Union🔗](https://space.bilibili.com/508002687) to watch our works).
 
-I have learned several programming languages like C++, Java and Python, familiar with lots of commonly used Python libraries such as numpy, pandas, matplotlib and sklearn. I also mastered the grammar of LaTex and Markdown. Moreover, in middle school, I used to attend NOIP programming contest and learned many Algorithms. The experience also triggers my interests of computer science and algorithms.
+I have learned several programming languages like C++, Java and Python, familiar with lots of commonly used Python libraries such as numpy, pandas, matplotlib and sklearn. I also mastered the grammar of LaTex and Markdown. Moreover, in middle school, I used to attend NOIP programming contests and learned many Algorithms. The experience also triggers my interest in computer science and algorithms.
 
 My hobbies include many fields.  Except for computer science and research, I like literature, music (singing and piano) and swimming. I'm interested in reading and thinking, empathizing with the characters in the book, and writing thoughts and experiences of me. 
 
@@ -36,7 +38,7 @@ My current research focuses on the **Federated Learning**. In 2016, Google's res
 
 <br>
 
----
+------
 
 ## Current Courses I am Taking
 
