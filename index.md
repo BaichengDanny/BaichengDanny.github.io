@@ -2,7 +2,7 @@
 
 # About Me
 
-
+<img src="https://caihanlin.com/danny.jpg" class="floatpic" width="360" height="480">
 
 Here is **Baicheng Chen (Danny, 陈柏成)**.
 
