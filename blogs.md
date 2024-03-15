@@ -10,7 +10,7 @@ I will constantly update the content.
 
 ### 2024
 
-- DDA2001 Mid-term Review [[click here](https://baichengdanny.github.io/blogs/DDA2001mid.docx)]
+- DDA2001 Mid-term Review [[click here](https://baichengdanny.github.io/blogs/DDA2001mid.pdf)]
 
 - My Answer to the 2023 Mid-term paper of CSC3100 [[click here](https://baichengdanny.github.io/blogs/AnswerCSC3100.pdf)]
 
