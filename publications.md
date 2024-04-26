@@ -10,9 +10,9 @@ title: Publications
 
 - **Federated Learning-Based EfficientNet in Brain Tumor Classification**<br>
 
-  **Baicheng Chen**<br>
+  **Baicheng Chen**
 
-  2024 International Conference on Engineering Management, Information Technology and Intelligence ([EMITI 2024](https://www.ic-emiti.com/))<br>
+  2024 International Conference on Engineering Management, Information Technology and Intelligence ([EMITI 2024](https://www.ic-emiti.com/))
 
 ## Project
 
