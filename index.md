@@ -62,6 +62,6 @@ In CUHK-Shenzhen:
 
 ## News and Updates
 
-- **April 2024:** My first paper "***Federated Learning-Based EfficientNet in Brain Tumor Classification***" is going to be published. In the last few months, I constantly worked on **Federated Learning** and its application in the **Computer Vision** field. Although this paper is just like an experiment report, I  really spent a lot of time and effort on it. Importantly, I found the best way for me to study: to learn through trying forward an aim. 
+- **April 2024:** My first paper "***Federated Learning-Based EfficientNet in Brain Tumor Classification***" is going to be published. In the last few months, I constantly worked on **Federated Learning** and its application in the **Computer Vision** field. Although this paper is just like an experiment report, I  really spent a lot of time and effort on it from zero. Importantly, I found the best way for me to study: to learn through trying forward an aim. 
 
 - **March 2024:** I finished a great group project with my teammates (Boxuan Wen, Yeke Zhang and Zixiang Hao). Our project focuses on the ***Implementation of Image Classification Training Based on FedAvg Algorithm***. I had a great time with them! You can find our slides and report in the **Publication** section. 
