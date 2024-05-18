@@ -20,9 +20,9 @@ If you are interested in any aspect of me, would like to chat with me further, p
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am trying to apply to be a research assistant now!**
+**<font color='red'>[Highlight]</font> I am trying to apply to be a Research Assistant now!**<br>**GPA: 3.70 (the first semester of freshman year)<br>=> GPA Transcript [[click here](https://baichengdanny.github.io/file/SSR_TSRPT.pdf)]**
 
-- **Sep 2023 - Mar 2024:** CUHK-Shenzhen (Freshman, CSE)
+- **Sep 2023 - May 2024:** CUHK-Shenzhen (Freshman)
 - **Sep 2020 - June 2023:** Qingdao NO. 9 High School
 
 <br>
@@ -32,9 +32,9 @@ If you are interested in any aspect of me, would like to chat with me further, p
 ## Research Interests
 
 - Machine Learning
-- Parallel and Distributed Systems
 - Federated Learning
 - Computer Vision
+- Parallel and Distributed Systems
 
 My current research focuses on the **Federated Learning**. In 2016, Google's researchers put forward a novel Machine Learning Architecture based on Distributed Machine Learning called Federated Learning (FL), which highly improved data privacy and security. Now, I'm researching the application of FL in the **computer vision** field. And next, I'll mainly focus on **Fully Distributed Federated Learning**.
 
@@ -44,7 +44,7 @@ My current research focuses on the **Federated Learning**. In 2016, Google's res
 
 ## Current Courses I am Taking
 
-In CUHK-Shenzhen: 
+In CUHK-Shenzhen (already finished): 
 
 - MAT 1002: Calculus II
 - ENG 1002: English for Academic Purposes I
@@ -55,6 +55,11 @@ In CUHK-Shenzhen:
 - GFN 1000: In Dialogue with Nature
 - ITE 1000: Information Technology
 - PED 1002: Swimming - Freestyle
+
+In UC Berkeley (2024 Summer Session):
+
+- MATH N55: Discrete Mathematics
+- COMPSCI 161: Computer Security
 
 <br>
 
