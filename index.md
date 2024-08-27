@@ -10,9 +10,9 @@ layout: page
 
 Hi! This is **Baicheng Chen (Danny, 陈柏成)**.
 
-I am a freshman majoring in **CSE** at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). In our university, I'm also a student at Minerva College (厚含书院). Furthermore, I'm a video Editor and Colorist working in the Student Union currently (You can follow the [Bilibili account of the Student Union🔗](https://space.bilibili.com/508002687) to watch our works).
+I am a sophomoremajoring in **CSE** at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). In our university, I'm also a student at Minerva College (厚含书院). Furthermore, I'm a video Editor and Colorist working in the Student Union currently (You can follow the [Bilibili account of the Student Union🔗](https://space.bilibili.com/508002687) to watch our works).
 
-I have learned several programming languages like C++, Java and Python, familiar with lots of commonly used Python libraries such as numpy, pandas, matplotlib and sklearn. I also mastered the grammar of LaTex and Markdown. Moreover, in middle school, I used to attend NOIP programming contests and learned many Algorithms. The experience also triggers my interest in computer science and algorithms.
+I have learned several programming languages like C++, Java, Python and Go, familiar with lots of commonly used Python libraries such as numpy, pandas, matplotlib and sklearn. I also mastered the grammar of LaTex and Markdown. Moreover, in middle school, I used to attend NOIP programming contests and learned many Algorithms. The experience also triggers my interest in computer science and algorithms.
 
 My hobbies include many fields.  Except for computer science and research, I like literature, music (singing and piano) and swimming. I'm interested in reading and thinking, empathizing with the characters in the book, and writing thoughts and experiences of me. 
 
@@ -22,7 +22,7 @@ If you are interested in any aspect of me, would like to chat with me further, p
 
 **<font color='red'>[Highlight]</font> I am trying to apply to be a Research Assistant now!**<br>**GPA: 3.70 (the first semester of freshman year)<br>=> GPA Transcript [[click here](https://baichengdanny.github.io/file/SSR_TSRPT.pdf)]**
 
-- **Sep 2023 - May 2024:** CUHK-Shenzhen (Freshman)
+- **Sep 2023 - Sep 2024:** CUHK-Shenzhen (Sophomore)
 - **Sep 2020 - June 2023:** Qingdao NO. 9 High School
 
 <br>

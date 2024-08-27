@@ -1,7 +1,5 @@
 ---
-layout: page
-permalink: /teaching/index.html
-title: Teaching
+
 ---
 
 ## Teaching
@@ -14,3 +12,6 @@ title: Teaching
 
 #### Course Outline
 
+layout: page
+permalink: /teaching/index.html
+title: Teaching
