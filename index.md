@@ -20,9 +20,10 @@ If you are interested in any aspect of me, would like to chat with me further, p
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am trying to apply to be a Research Assistant now!**<br>**GPA: 3.733 (The Freshman Year CGPA) & GPA: 4.0 (Berkley Summer Session)<br>=> GPA Transcript [[CUHKSZ](https://baichengdanny.github.io/file/SSR_TSRPT.pdf)] [[UCB](https://baichengdanny.github.io/file/AcademicSummary.pdf)]**
+**<font color='red'>[Highlight]</font> I am trying to apply to be a Research Assistant now!**<br>**GPA: 3.733 (The Freshman Year CGPA) & GPA: 4.0 (Berkeley Summer Session)<br>=> GPA Transcript [[CUHKSZ](https://baichengdanny.github.io/file/SSR_TSRPT.pdf)] [[UCB](https://baichengdanny.github.io/file/TESN0K8I.pdf)]**
 
-- **Sep 2023 - Sep 2024:** CUHK-Shenzhen (Sophomore)
+- **Sep 2023 - Now:** The Chinese University of Hong Kong, Shenzhen
+- **June 2024 - Aug 2024:** University of California, Berkeley Summer Session
 - **Sep 2020 - June 2023:** Qingdao NO. 9 High School
 
 <br>
@@ -32,29 +33,26 @@ If you are interested in any aspect of me, would like to chat with me further, p
 ## Research Interests
 
 - Machine Learning
+- AI security and privacy
+- Deepfake
 - Federated Learning
 - Computer Vision
-- Parallel and Distributed Systems
 
-My current research focuses on the **Federated Learning**. In 2016, Google's researchers put forward a novel Machine Learning Architecture based on Distributed Machine Learning called Federated Learning (FL), which highly improved data privacy and security. Now, I'm researching the application of FL in the **computer vision** field. And next, I'll mainly focus on **Fully Distributed Federated Learning**.
+My current research focuses on the **Deepfake Detection**. The course **Computer Security** I took in the summer  particularly impressed me by unfolding the severe consequences of private data being breached and the increasingly serious security issues in the rapid development of Al (e.g. deepfake) reinforcing my determination to learn how to solve these issues.
 
 <br>
 
 ------
 
-## Current Courses I am Taking
+## The Major Related Course I have already taken
 
-In CUHK-Shenzhen (already finished): 
+In CUHK-Shenzhen: 
 
-- MAT 1002: Calculus II
-- ENG 1002: English for Academic Purposes I
+- MAT 1001 + 1002: Calculus
+- MAT 2041: Linear Algebra
+- CSC 1003 + 1004: Java Programming and Lab
 - CSC 3100: Data Structure
-- CSC 1004: Computational Laboratory Using Java
-- PHY 1001: Mechanics
 - DDA 2001: Introduction to Data Science
-- GFN 1000: In Dialogue with Nature
-- ITE 1000: Information Technology
-- PED 1002: Swimming - Freestyle
 
 In UC Berkeley (2024 Summer Session):
 

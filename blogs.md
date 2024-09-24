@@ -10,7 +10,7 @@ I will constantly update the content.
 
 ### 2024
 
-- [Support Vector Machine](https://baichengdanny.github.io/blogs/SVM/)
+- [Support Vector Machine](https://baichengdanny.github.io/blogs/SVM.pdf)
 
 - MAT1002 Mid-term Review [[click here](https://baichengdanny.github.io/blogs/1002MidReview.pdf)]
 
