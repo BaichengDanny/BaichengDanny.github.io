@@ -44,7 +44,7 @@ My current research focuses on the **Deepfake Detection**. The course **Computer
 
 ------
 
-## The Major Related Course I have already taken
+## The Major Related Courses I have already taken
 
 In CUHK-Shenzhen: 
 
