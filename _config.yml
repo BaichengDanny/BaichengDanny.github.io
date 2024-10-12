@@ -11,9 +11,9 @@ owner:
   # bio: Two roads diverged in woods, I took the one less traveled by.
   location: Shenzhen, China
   email: baichengchen@link.cuhk.edu.cn
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://caihanlin.com/file/CV_Danny.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
+  twitter: dannychen1223
   github: BaichengDanny
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
@@ -54,8 +54,8 @@ links:
 timezone: China/Beijing
 future: true
 highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
+markdown: kramdown
+markdown: redcarpet
 # pygments: true
 
 
@@ -84,5 +84,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.
