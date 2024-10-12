@@ -20,7 +20,7 @@ If you are interested in any aspect of me, would like to chat with me further, p
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I'm now working at SCLBD as a research assistant!**<br>**GPA: 3.733 (The Freshman Year CGPA) & GPA: 4.0 (Berkeley Summer Session)<br>=> GPA Transcript [[CUHKSZ](https://baichengdanny.github.io/file/SSR_TSRPT.pdf)] [[UCB](https://baichengdanny.github.io/file/TESN0K8I.pdf)]**
+**<font color='red'>[Highlight]</font> I'm now working at SCLBD as a research assistant!**<br>
 
 - **Sep 2023 - Now:** The Chinese University of Hong Kong, Shenzhen
 - **June 2024 - Aug 2024:** University of California, Berkeley (Summer Session)
